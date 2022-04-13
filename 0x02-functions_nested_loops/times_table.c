@@ -61,3 +61,4 @@ _putchar('\n');
 }
 
 }
+gcc -Wall 9-times_table.c
