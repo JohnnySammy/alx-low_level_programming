@@ -1,7 +1,7 @@
 #include "main.h"
-/** 
-*reset _to_98 - reset  argument to 98
-*@n: pointer
+/**
+*reset_to_98 - Entry point
+*@n: int to print*
 *Return: void
 */
 void reset_to_98(int *n)
